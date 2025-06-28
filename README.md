@@ -5,7 +5,7 @@ This project is a C library with generic functions useful for working with strin
 ---
 
 ## What’s in this project?
-## To check how to use see "genericF/examples"
+To check how to use see "genericF/examples"
 ### Input Functions
 - **_inputFunction**  
   Asks the user for input and validates the type (integer, float, double, or string).
