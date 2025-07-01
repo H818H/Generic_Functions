@@ -94,7 +94,7 @@ typedef enum
 int _inputFunction(const char *message, void *exit, TYPES type);
 
 /**
- * Allocates sificient memory to store bytes of a file
+ * Allocates suficient memory to store bytes of a file
  * Returns a pointer to this area. The buffer is terminated with '\0'  
  * @param filename file to read, must specifie directory if its out of current directory
  * @return a pointer containing all the data of specified file(must be freed with free())
